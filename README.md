@@ -1,5 +1,5 @@
 # Book-recom
-Этот проект реализует Систему Рекомендаций Книг, использующую данные из CSV файла, содержащего информацию о книгах. Система применяет различные методы (вероятно, на основе фильтрации по схожести, контентной фильтрации или гибридного подхода) для рекомендации книг в зависимости от предпочтений пользователя.
+Этот проект реализует Систему Рекомендаций Книг, использующую данные из CSV файла, содержащего информацию о книгах. Система применяет различные методы для рекомендации книг в зависимости от предпочтений пользователя.
 
 Файлы
 books_recommendation.ipynb: Основной Jupyter ноутбук, содержащий код для системы рекомендаций.
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 Overview
 
-This project implements a Books Recommendation System using data from a CSV file containing book information. The system uses a variety of techniques (likely based on collaborative filtering, content-based filtering, or a hybrid approach) to recommend books based on user preferences.
+This project implements a Books Recommendation System using data from a CSV file containing book information. The system uses a variety of techniques to recommend books based on user preferences.
 
 Files
 books_recommendation.ipynb: The main Jupyter notebook that contains the code for the recommendation system.
